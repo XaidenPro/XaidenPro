@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @XaidenPro
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning nothing but I want to learn javascript
